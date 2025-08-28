@@ -60,9 +60,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hschinmayabharadwaj&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</div>
-
-<div align="center">
   <i>⭐️ From [hschinmayabharadwaj](https://github.com/hschinmayabharadwaj)</i>
 </div>
