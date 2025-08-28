@@ -27,10 +27,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hschinmayabharadwaj&show_icons=truhide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hschinmayabharadwaj" alt="GitHub Streak"/> -->
+  ![](https://github-readme-stats.vercel.app/api?username=hschinmayabharadwaj&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<
+
 </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hschinmayabharadwaj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
