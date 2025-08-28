@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hschinmayabharadwaj&show_icons=truhide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hschinmayabharadwaj" alt="GitHub Streak"/> 
+   
 </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hschinmayabharadwaj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
