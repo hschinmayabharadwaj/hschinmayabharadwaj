@@ -28,8 +28,7 @@
 ## 📊 GitHub Stats
 
 
-  ![](https://github-readme-stats.vercel.app/api?username=hschinmayabharadwaj&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-
+  
   
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hschinmayabharadwaj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
