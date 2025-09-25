@@ -28,6 +28,8 @@
 ## 📊 GitHub Stats
 
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hschinmayabharadwaj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
   
   
 
