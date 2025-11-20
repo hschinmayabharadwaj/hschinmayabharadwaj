@@ -41,7 +41,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaybharadwaj5115@gmail.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/chinmayabharadwajhs)
 
-##Thanks for stopping by..
+
 
 
 </div>
