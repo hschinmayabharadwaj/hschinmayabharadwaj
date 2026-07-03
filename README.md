@@ -35,7 +35,6 @@
 
 
 </div>
-Thank You
 
 
 
