@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chinmaya Bharadwaj</h1>
 
 <p align="center">
+  📬 Got a question or want to collaborate? Reach me at
+  <a href="mailto:YOUR_EMAIL@proton.me">chinchiru@proton.me</a>
+</p>
+
+<p align="center">
   <a href="mailto:chinchiru@proton.me">
     <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail"/>
   </a>
