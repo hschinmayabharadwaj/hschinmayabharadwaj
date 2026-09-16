@@ -3,7 +3,7 @@
 
 <span style="color:#00FF00;">Mail me for queries   [Here](mailto:askmeanything@chinmaybharadwaj.in)</span>
 
-Just Explore Yourselves out it includes some ideas into side projects into softwares!!!
+
   
   
   
